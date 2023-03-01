@@ -33,7 +33,10 @@ body{
     
 }
 
-
+.titulo{
+    position: absolute;
+    bottom: 100px;
+}
 a{
     text-decoration: none;
 }
